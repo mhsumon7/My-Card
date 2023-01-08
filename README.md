@@ -1,16 +1,21 @@
-# mi_card_flutter
+# My Card App
 
-A new Flutter project.
+This is a flutter-developed application writing in Dart language.
 
-## Getting Started
+## Installation
 
-This project is a starting point for a Flutter application.
+It can be installed on
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+Android
+```
+```bash
+IOS
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Usage
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```python
+nothing just my contatct info.
+```
+![Screenshot_20230108-070053](https://user-images.githubusercontent.com/74013982/211176210-42b4bbce-e0f9-4151-ab69-2697fdb70ab6.png)
